@@ -1,4 +1,0 @@
-port:8080
-bytebuff_dim_alloc:1024
-portUDP:9876
-groupUDP:230.0.0.1
